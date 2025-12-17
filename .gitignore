@@ -1,2 +1,11 @@
+# env files
 .env
-Backend/node_modules
+
+# node modules
+node_modules/
+Backend/node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
